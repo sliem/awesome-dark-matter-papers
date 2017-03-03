@@ -1,12 +1,18 @@
 # Awesome List of Dark Matter Papers
 
-A curated list of the most cited Dark Matter papers.
+We believe there are certain dark matter papers that are worth reading for everyone in the field, or provide an excellent introduction to their subfields. The aim is to provide a *curated list* of these papers. 
 
-Inspired by a [awesome list of deep learning papers](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md).
+## We need your contributions!
 
-**We need your contributions!**
+If you have any suggestions (missing papers, typos, papers to remove) we want to hear them!
+Please read the [contributing guide](https://github.com/sliem/awesome-dark-matter-papers/blob/master/contribute.md) for futher instructions.
 
-## Background
+### Critera for inclusion
+
+- critera A
+- critera B 
+
+These are **flexible guidelines**, not strict rules.
 
 ## Table of Contents
 
@@ -24,4 +30,8 @@ Inspired by a [awesome list of deep learning papers](https://github.com/terryum/
 
 ### Dark Matter at Colliders
 
-### Tools 
+### Tools
+
+#### Acknowledgements
+
+This list was inspired by the [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) list and is part of the [awesome list](https://github.com/sindresorhus/awesome) phenomena.
