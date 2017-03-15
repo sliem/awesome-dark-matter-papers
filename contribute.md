@@ -4,10 +4,13 @@ You can add / delete / modify the papers on the awesome list by directly editing
 The prefered way to contribute is to fork the repository, make your edits, and then create a pull request.
 If you don't know how to do this, you can instead create an [new issue](https://github.com/sliem/awesome-dark-matter-papers/issues) with your contribution.
 
-## Critera for inclusion
+### Critera for inclusion
 
-- critera A
-- critera B
+- Published in a scientific journal with a peer review process (For exceptional circumstances this criteria can be removed)
+- Only one publication per major collaboration (i.e. results from the Planck collaboration) per subgroup, unless explicilty covering new material/results
+- Each paper must introduce new content or summerize existing content
+- No two papers can exclusively cover the same topic although there can be certain overlap
+- Although we prefer to not add a constraint based on citations, the more the merrier
 
 These are **flexible guidelines**, if you have an argument for a paper not fulfilling the criteria please make it in the pull request.
 
