@@ -25,6 +25,8 @@ These are **flexible guidelines**, not strict rules.
 ## Table of Contents
 
 ### Cosmology
+- CMB Constraint on Dark Matter Annihilation after Planck 2015 (2015) Masahiro Kawasaki, Kazunori Nakayama, and Toyokazu Sekiguchi [arxiv.org/abs/1512.08015]
+- Constraints on dark-matter properties from large-scale structure (2016) Martin Kunz, Savvas Nesseris, and Ignacy Sawicki [arxiv.org/abs/1604.05701]
 
 ### Structure formation and Galaxies
 - Formation of Galaxies and Clusters of Galaxies By Self-Similar Gravitational Condensation (1974) William H. Press and Paul Schechter [http://adsabs.harvard.edu/abs/1974ApJ...187..425P]
@@ -33,9 +35,12 @@ These are **flexible guidelines**, not strict rules.
 
 ### Direct Detection
 - Detectability of certain dark-matter candidates (1985) Mark W. Goodman and Edward Witten [Phys. Rev. D 31, 3059]
-- XENON100 Dark Matter Results from a Combination of 477 Live Days (2016) XENON100 Collaboration [https://arxiv.org/abs/1609.06154]
+- XENON100 Dark Matter Results from a Combination of 477 Live Days (2016) XENON100 Collaboration [arxiv.org/abs/1609.06154]
+- Results from a search for dark matter in the complete LUX exposure (2016) LUX Collaboration [arxiv.org/abs/1608.07648]
 
 ### Indirect Detection
+- Dark Matter Constraints from Observations of 25 Milky Way Satellite Galaxies with the Fermi Large Area Telescope (2013) Fermi-LAT collaboration [arxiv.org/abs/1310.0828]
+- Indirect Detection of WIMP Dark Matter: a compact review (2014) Jan Conrad [arxiv.org/pdf/1411.1925]
 
 ### Dark Matter at Colliders
 
